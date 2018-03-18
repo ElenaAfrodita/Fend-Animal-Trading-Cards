@@ -1,0 +1,30 @@
+img {
+    max-width: 300px;
+    height: auto;
+}
+ul{
+  list-style:none;
+  padding-left: 0;
+}
+li{
+  line-height:20px;
+}
+li span{
+  font-weight: bold;
+}
+.cutie{
+  padding:10px;
+  border-style: solid;
+  border-color: #914848;
+  border-width: 5px;
+}
+#card{
+  width:300px;
+  box-shadow:8px 8px 4px #914848;
+}
+#animal{
+  margin:5px 0;
+}
+#prima{
+  font-style: italic;
+}
